@@ -14,4 +14,26 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>alter.sql</name>
+			<type>1</type>
+			<location>C:/Users/Administrator/Documents/SQL Server Management Studio/Projects/QuanLySinhVien/alter.sql</location>
+		</link>
+		<link>
+			<name>create dbs.sql</name>
+			<type>1</type>
+			<location>C:/Users/Administrator/Documents/SQL Server Management Studio/Projects/QuanLySinhVien/create dbs.sql</location>
+		</link>
+		<link>
+			<name>insert.sql</name>
+			<type>1</type>
+			<location>C:/Users/Administrator/Documents/SQL Server Management Studio/Projects/QuanLySinhVien/insert.sql</location>
+		</link>
+		<link>
+			<name>table.sql</name>
+			<type>1</type>
+			<location>C:/Users/Administrator/Documents/SQL Server Management Studio/Projects/QuanLySinhVien/table.sql</location>
+		</link>
+	</linkedResources>
 </projectDescription>
