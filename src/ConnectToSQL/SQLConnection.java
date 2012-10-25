@@ -7,7 +7,7 @@ public class SQLConnection {
 String Host = "HSU1008KVR";
 String Username = "baoquang";
 String Password = "chapel";
-String Database = "QanLySinhVien";
+String Database = "QuanLySinhVien";
 String Port = "1492";
 Connection connect = null;
 Statement statement = null;
